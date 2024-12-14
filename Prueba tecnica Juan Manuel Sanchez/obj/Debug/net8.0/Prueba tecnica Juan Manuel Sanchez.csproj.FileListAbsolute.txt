@@ -1,0 +1,44 @@
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.csproj.AssemblyReference.cache
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.AssemblyInfoInputs.cache
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.AssemblyInfo.cs
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.csproj.CoreCompileInputs.cache
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\appsettings.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.exe
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.deps.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.runtimeconfig.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.pdb
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets\msbuild.Prueba tecnica Juan Manuel Sanchez.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets\msbuild.build.Prueba tecnica Juan Manuel Sanchez.props
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Prueba tecnica Juan Manuel Sanchez.props
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Prueba tecnica Juan Manuel Sanchez.props
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\scopedcss\bundle\Prueba tecnica Juan Manuel Sanchez.styles.css
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba t.E2B93642.Up2Date
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\refint\Prueba tecnica Juan Manuel Sanchez.dll
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.pdb
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\Prueba tecnica Juan Manuel Sanchez.genruntimeconfig.cache
+C:\Users\juan1\source\repos\Prueba tecnica Juan Manuel Sanchez\Prueba tecnica Juan Manuel Sanchez\obj\Debug\net8.0\ref\Prueba tecnica Juan Manuel Sanchez.dll

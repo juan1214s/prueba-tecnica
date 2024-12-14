@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Prueba_tecnica_Juan_Manuel_Sanchez.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "prueba/juan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userModel",
+        "Type": "Prueba_tecnica_Juan_Manuel_Sanchez.Models.UserModel.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
